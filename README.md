@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdullah</h1>
+<h1 align="center">Hi 👋, I'm Abdullah Khan</h1>
 <h3 align="center">A passionate AI engineer from Pakistan</h3>
 
 - 🌱 I’m currently working on LLMs at** Agile Loop as an Artificial Intelligence Engineer**
