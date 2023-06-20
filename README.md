@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A passionate AI specialist from Pakistan</h3>
+<h3 align="center">A passionate AI engineer from Pakistan</h3>
 
-- 🌱 I’m currently pursuing **Bachelors in Artificial Intelligence (Partnered by Huawei) from Ghulam Ishaaq Khan Institute**
+- 🌱 I’m currently working on LLMs at** Agile Loop as an Artificial Intelligence Engineer**
 
-- 📫 How to reach me **u2020024@giki.edu.pk**
+- 📫 How to reach me **abdullahkhancsc@gmail.com**
 
 - ⚡ Fun fact **I think I am an extrovert**
 
