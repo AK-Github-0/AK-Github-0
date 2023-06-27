@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Khan</h1>
 <h3 align="center">A passionate AI engineer from Pakistan</h3>
 
-- 🌱 I’m currently working on LLMs at **Agile Loop as an Artificial Intelligence Engineer**
+- 🌱 I’m currently working on making a adaptive action models for carrying out diversified actions at **Agile Loop as an Artificial Intelligence Engineer**
 
 - 📫 How to reach me **abdullahkhancsc@gmail.com**
 
