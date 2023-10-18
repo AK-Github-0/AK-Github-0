@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi, I'm Abdullah Khan</h1>
 <h3 align="center">Artificial Intelligence Engineer and Consultant</h3>
 
-🔭 I'm currently working on adaptive action models at **Agile Loop** as an Artificial Intelligence Engineer.
+🔭 I'm currently dedicated to designing and developing cutting-edge adaptive action models at **Agile Loop**, where I leverage my expertise as an Artificial Intelligence Engineer to create dynamic solutions that adapt to complex and ever-changing environments.
 
-💼 I also offer artificial intelligence consulting sessions on **Fiverr**.
+💼 Additionally, I extend my passion for artificial intelligence by providing comprehensive and insightful consulting sessions on **Fiverr**, where I help individuals and businesses harness the power of AI to drive innovation and growth.
 
-📫 You can reach me at **abdullahkhancsc@gmail.com**.
+📫 Feel free to get in touch with me at **abdullahkhancsc@gmail.com**. I am always open to engaging in discussions, collaborations, and exploring new opportunities within the realm of artificial intelligence and its diverse applications.
 
-😄 Fun fact: I consider myself an extrovert.
+😄 On a personal note, I thrive in social settings and consider myself an enthusiastic extrovert. I firmly believe in the power of effective communication and collaboration, which are essential elements for driving successful AI initiatives and fostering meaningful connections within the tech community.
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
@@ -18,7 +18,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt "C++" width="40" height="40" /></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /></a>
   <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40" /></a>
   <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" /></a>
