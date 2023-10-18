@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Khan</h1>
-<h3 align="center">An Artifcial Intelligence Engineer and Consultant</h3>
+<h3 align="center">An Artifcial Intelligence Engineer and Consultant </h3>
 
 🌱 I’m currently developing adaptive action models for carrying out diversified actions at **Agile Loop as an Artificial Intelligence Engineer**
 
