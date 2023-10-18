@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdullah Khan</h1>
 <h3 align="center">An Artifcial Intelligence Engineer and Consultant </h3>
 
-🌱 I’m currently developing adaptive action models for carrying out diversified actions at **Agile Loop as an Artificial Intelligence Engineer**
+I am currently developing adaptive action models for carrying out diversified actions at **Agile Loop as an Artificial Intelligence Engineer**
+I am also offering artificial intelligence consulting sessions at Fiverr.
+How to reach me **abdullahkhancsc@gmail.com**
 
-📫 How to reach me **abdullahkhancsc@gmail.com**
-
-⚡ Fun fact **I think I am an extrovert**
+Fun fact **I think I am an extrovert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
