@@ -3,9 +3,9 @@
 
 I am currently dedicated to designing and developing cutting-edge models on Azure at **Al Rafay Consulting**, where I leverage my expertise on Python, LLM and Azure to create dynamic solutions that adapt to complex and ever-changing environments.
 
-💼 Additionally, I extend my passion for artificial intelligence by providing comprehensive and insightful consulting sessions on **Fiverr**, where I help individuals and businesses harness the power of AI to drive innovation and growth.
+Additionally, I extend my passion for artificial intelligence by providing comprehensive and insightful consulting sessions on **Fiverr**, where I help individuals and businesses harness the power of AI to drive innovation and growth.
 
-📫 Feel free to get in touch with me at **abdullahkhancc@gmail.com**. I am always open to engaging in discussions, and collaborations within the realm of artificial intelligence and its diverse applications.
+Feel free to get in touch with me at **abdullahkhancc@gmail.com**. I am always open to engaging in discussions, and collaborations within the realm of artificial intelligence and its diverse applications.
 
 😄 On a personal note, I thrive in social settings and consider myself an extrovert. I firmly believe in the power of effective communication and collaboration, which are essential elements for driving successful AI initiatives and fostering meaningful connections within the tech community.
 
