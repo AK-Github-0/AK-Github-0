@@ -1,7 +1,7 @@
 <h1 align="center"> Hi! I'm Abdullah Khan 👋</h1>
 <h3 align="center">Artificial Intelligence Engineer and Consultant</h3>
 
-🔭 I'm currently dedicated to designing and developing cutting-edge adaptive action models at **Agile Loop**, where I leverage my expertise as an Artificial Intelligence Engineer to create dynamic solutions that adapt to complex and ever-changing environments.
+🔭 I'm currently dedicated to designing and developing cutting-edge models on Azure at **Al Rafay Consulting**, where I leverage my expertise on Python, LLM and Azure to create dynamic solutions that adapt to complex and ever-changing environments.
 
 💼 Additionally, I extend my passion for artificial intelligence by providing comprehensive and insightful consulting sessions on **Fiverr**, where I help individuals and businesses harness the power of AI to drive innovation and growth.
 
