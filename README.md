@@ -7,7 +7,6 @@ Additionally, I extend my passion for artificial intelligence by providing compr
 
 Feel free to get in touch with me at **abdullahkhancc@gmail.com**. I am always open to engaging in discussions, and collaborations within the realm of artificial intelligence and its diverse applications.
 
-😄 On a personal note, I thrive in social settings and consider myself an extrovert. I firmly believe in the power of effective communication and collaboration, which are essential elements for driving successful AI initiatives and fostering meaningful connections within the tech community.
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
