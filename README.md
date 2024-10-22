@@ -1,7 +1,7 @@
 <h1 align="center"> Greetings! I'm Abdullah Khan 👋</h1>
 <h3 align="center">Artificial Intelligence Engineer and Consultant</h3>
 
-I am currently dedicated to designing and developing cutting-edge apps on Azure, where I leverage my expertise in Python, Backend, LLMs and Azure to create dynamic solutions that adapt to complex and ever-changing environments.
+I am currently dedicated to designing and developing cutting-edge apps on Azure at Miniso, where I leverage my expertise in Python, Backend, LLMs and Azure to create dynamic solutions that adapt to complex and ever-changing environments.
 
 Additionally, I extend my passion for artificial intelligence by providing comprehensive and insightful consulting sessions on **Fiverr**, where I help individuals and businesses harness the power of AI to drive innovation and growth.
 
