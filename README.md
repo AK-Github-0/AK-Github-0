@@ -5,7 +5,7 @@ I am currently dedicated to designing and developing cutting-edge AI assistants 
 
 Additionally, I extend my passion for artificial intelligence by providing comprehensive and insightful consulting sessions on **Fiverr**, where I help individuals and businesses harness the power of AI to drive innovation and growth.
 
-Feel free to get in touch with me at **abdullahkhanai@icloud.com*. I am always open to engaging in discussions, and collaborations within the realm of artificial intelligence and its diverse applications.
+Feel free to get in touch with me at **abdullahkhanai@icloud.com**. I am always open to engaging in discussions, and collaborations within the realm of artificial intelligence and its diverse applications.
 
 
 <h3 align="left">Connect with Me:</h3>
